@@ -18,10 +18,10 @@ Acá encontrarán el resto de mis proyectos de la carrera de __Desarrollo Web Fu
 * __Proyecto 2:__ [Home Banking](https://github.com/woodlandspirit/Home_Banking)
 * __Proyecto 3:__ [Rompecabezas](https://github.com/woodlandspirit/Rompecabezas)
 * __Proyecto 4:__ Pixel Art
-* __Proyecto 5:__ Ciudad Zombie
-* __Proyecto 6:__ Reservando
-* __Proyecto 7:__ Encuestados
-* __Proyecto 8:__  Qué veo hoy
-* __Proyecto 9:__ Peli vs. peli
+* __Proyecto 5:__ [Ciudad Zombie](https://github.com/woodlandspirit/Ciudad_Zombie)
+* __Proyecto 6:__ [Reservando](https://github.com/woodlandspirit/Reservando)
+* __Proyecto 7:__ [Encuestados](https://github.com/woodlandspirit/Encuestados)
+* __Proyecto 8:__ [Qué veo hoy](https://github.com/woodlandspirit/Que_veo_hoy)
+* __Proyecto 9:__ [Peli vs. peli](https://github.com/woodlandspirit/Peli-VS-Peli)
 
 ***
